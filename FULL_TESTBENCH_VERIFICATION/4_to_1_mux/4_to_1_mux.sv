@@ -1,4 +1,4 @@
-// Code your design here
+//AUTHOR: RYAN FAREKH
 module mux
   (
     input [3:0] a,b,c,d, 
